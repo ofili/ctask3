@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Guessing_Game
 {
@@ -32,7 +32,7 @@ namespace Guessing_Game
 
                         Easy:
                             Console.WriteLine(firstName + " you are playing Easy level");
-                            Console.WriteLine("Instruction:");
+                            Console.WriteLine("\nInstruction:");
                             Console.WriteLine("#1 Correctly guess a number between 1 and 10");
                             Console.WriteLine("#2 You have 6 guesses");
 
@@ -76,9 +76,9 @@ namespace Guessing_Game
 
             		Medium:
                             Console.WriteLine(firstName + " your difficulty level is Medium");
-                            Console.WriteLine("Instruction:");
-                            Console.WriteLine("# Correctly guess a number between 1 and 20");
-                            Console.WriteLine("# You have 3 trys");
+                            Console.WriteLine("\nInstruction:");
+                            Console.WriteLine("#1 Correctly guess a number between 1 and 20");
+                            Console.WriteLine("#2 You have 3 trys");
 
 
                             Random m = new Random();
@@ -121,9 +121,9 @@ namespace Guessing_Game
 
             		Hard:
                             Console.WriteLine(firstName + " your difficulty level is Hard");
-                            Console.WriteLine("Instruction:");
-                            Console.WriteLine("# Correctly guess a number between 1 and 50");
-                            Console.WriteLine("# You have 3 trys");
+                            Console.WriteLine("\nInstruction:");
+                            Console.WriteLine("#1 Correctly guess a number between 1 and 50");
+                            Console.WriteLine("#2 You have 3 trys");
 
 
                             Random h = new Random();
