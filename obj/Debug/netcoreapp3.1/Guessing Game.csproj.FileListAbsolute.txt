@@ -1,0 +1,26 @@
+C:\Users\ofili_lewis\source\repos\Guessing Game\Guessing Game\obj\Debug\netcoreapp3.1\Guessing Game.csprojAssemblyReference.cache
+C:\Users\ofili_lewis\source\repos\Guessing Game\Guessing Game\obj\Debug\netcoreapp3.1\Guessing Game.csproj.CoreCompileInputs.cache
+C:\Users\ofili_lewis\source\repos\Guessing Game\Guessing Game\obj\Debug\netcoreapp3.1\Guessing Game.AssemblyInfoInputs.cache
+C:\Users\ofili_lewis\source\repos\Guessing Game\Guessing Game\obj\Debug\netcoreapp3.1\Guessing Game.AssemblyInfo.cs
+C:\Users\ofili_lewis\source\repos\Guessing Game\Guessing Game\bin\Debug\netcoreapp3.1\Guessing Game.exe
+C:\Users\ofili_lewis\source\repos\Guessing Game\Guessing Game\bin\Debug\netcoreapp3.1\Guessing Game.deps.json
+C:\Users\ofili_lewis\source\repos\Guessing Game\Guessing Game\bin\Debug\netcoreapp3.1\Guessing Game.runtimeconfig.json
+C:\Users\ofili_lewis\source\repos\Guessing Game\Guessing Game\bin\Debug\netcoreapp3.1\Guessing Game.runtimeconfig.dev.json
+C:\Users\ofili_lewis\source\repos\Guessing Game\Guessing Game\bin\Debug\netcoreapp3.1\Guessing Game.dll
+C:\Users\ofili_lewis\source\repos\Guessing Game\Guessing Game\bin\Debug\netcoreapp3.1\Guessing Game.pdb
+C:\Users\ofili_lewis\source\repos\Guessing Game\Guessing Game\obj\Debug\netcoreapp3.1\Guessing Game.dll
+C:\Users\ofili_lewis\source\repos\Guessing Game\Guessing Game\obj\Debug\netcoreapp3.1\Guessing Game.pdb
+C:\Users\ofili_lewis\source\repos\Guessing Game\Guessing Game\obj\Debug\netcoreapp3.1\Guessing Game.genruntimeconfig.cache
+C:\Users\ofili_lewis\Documents\GitHub\ctask3\bin\Debug\netcoreapp3.1\Guessing Game.exe
+C:\Users\ofili_lewis\Documents\GitHub\ctask3\bin\Debug\netcoreapp3.1\Guessing Game.deps.json
+C:\Users\ofili_lewis\Documents\GitHub\ctask3\bin\Debug\netcoreapp3.1\Guessing Game.runtimeconfig.json
+C:\Users\ofili_lewis\Documents\GitHub\ctask3\bin\Debug\netcoreapp3.1\Guessing Game.runtimeconfig.dev.json
+C:\Users\ofili_lewis\Documents\GitHub\ctask3\bin\Debug\netcoreapp3.1\Guessing Game.dll
+C:\Users\ofili_lewis\Documents\GitHub\ctask3\bin\Debug\netcoreapp3.1\Guessing Game.pdb
+C:\Users\ofili_lewis\Documents\GitHub\ctask3\obj\Debug\netcoreapp3.1\Guessing Game.csprojAssemblyReference.cache
+C:\Users\ofili_lewis\Documents\GitHub\ctask3\obj\Debug\netcoreapp3.1\Guessing Game.csproj.CoreCompileInputs.cache
+C:\Users\ofili_lewis\Documents\GitHub\ctask3\obj\Debug\netcoreapp3.1\Guessing Game.AssemblyInfoInputs.cache
+C:\Users\ofili_lewis\Documents\GitHub\ctask3\obj\Debug\netcoreapp3.1\Guessing Game.AssemblyInfo.cs
+C:\Users\ofili_lewis\Documents\GitHub\ctask3\obj\Debug\netcoreapp3.1\Guessing Game.dll
+C:\Users\ofili_lewis\Documents\GitHub\ctask3\obj\Debug\netcoreapp3.1\Guessing Game.pdb
+C:\Users\ofili_lewis\Documents\GitHub\ctask3\obj\Debug\netcoreapp3.1\Guessing Game.genruntimeconfig.cache
